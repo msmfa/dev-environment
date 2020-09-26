@@ -10,5 +10,6 @@ __downloads__
 __commands__
 
 __other__
-[Firefox](https://www.mozilla.org/en-US/firefox/new/)
-[DuckDuckGo](https://duckduckgo.com/)
+
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- [DuckDuckGo](https://duckduckgo.com/)
