@@ -14,6 +14,12 @@ __commands__
 
 ```brew install yarn```
 
+install watchman for Expo 
+
+```brew update```
+
+```brew install watchman```
+
 __other__
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
