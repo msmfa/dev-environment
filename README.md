@@ -12,6 +12,8 @@ __downloads__
 
 __commands__
 
+```brew install yarn```
+
 __other__
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
