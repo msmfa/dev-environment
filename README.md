@@ -6,5 +6,5 @@ __downloads__
 - [Node JS](https://nodejs.org/en/) 
 - [Expo Client](https://expo.io/tools)
 
-__misc__
+__commands__
 
