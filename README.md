@@ -15,3 +15,4 @@ __other__
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [DuckDuckGo](https://duckduckgo.com/)
 - [Spotify](https://www.spotify.com/us/download/other/)
+- [Todoist](https://todoist.com/users/showregister)
