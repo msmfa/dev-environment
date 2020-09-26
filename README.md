@@ -20,6 +20,10 @@ install watchman for Expo
 
 ```brew install watchman```
 
+git 
+
+```brew install git```
+
 __other__
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
