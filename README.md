@@ -7,6 +7,7 @@ __downloads__
 - [Node JS](https://nodejs.org/en/) 
 - [Expo Client](https://expo.io/tools)
 - [Homebrew](https://opensource.com/article/20/6/homebrew-mac)
+- [Postman](https://www.postman.com/downloads/)
 
 __commands__
 
