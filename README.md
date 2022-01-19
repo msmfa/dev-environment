@@ -12,6 +12,10 @@ __downloads__
 
 __commands__
 
+install brew:
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+
 ```brew install yarn```
 
 install watchman for Expo 
