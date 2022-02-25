@@ -8,7 +8,6 @@ __downloads__
 - [Expo Client](https://expo.io/tools)
 - [Homebrew](https://opensource.com/article/20/6/homebrew-mac)
 - [Postman](https://www.postman.com/downloads/)
-- [Insomnia](https://insomnia.rest/download/)
 
 __commands__
 
