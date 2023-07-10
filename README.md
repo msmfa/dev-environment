@@ -1,5 +1,5 @@
 # dev-environment
-// TODO: add these as commands that can be copy and pasted into terminal 
+TODO: add these as commands that can be copy and pasted into terminal 
 __downloads__
 
 - [VS Code](https://code.visualstudio.com/download)
